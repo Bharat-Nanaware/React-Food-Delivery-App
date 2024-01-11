@@ -1,1 +1,1 @@
-# React-Food-Delivery-App
+ContextAPI and the useReducer hook were utilized in this project to manage state throughout the application (i.e., to add specific food items to an array and remove food items from that array).I also utilized Material UI and Bootstrap.
