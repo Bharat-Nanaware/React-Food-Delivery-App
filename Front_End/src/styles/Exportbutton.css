@@ -1,0 +1,18 @@
+.export_excel {
+    color: var(--light-black);
+    background: var(--yellow);
+    border-color: var(--yellow);
+    letter-spacing: 0.5px;
+    font-family: var(--oswald-font);
+    vertical-align: middle;
+    text-transform: uppercase;
+    transition: all 0.3s ease-in-out;
+  }
+  
+  .export_excel:hover,
+  .export_excel:focus {
+    color: var(--white);
+    background: transparent;
+    border-color: var(--white);
+  }
+  

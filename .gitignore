@@ -1,0 +1,7 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs
+/Back_End/React_assignment_web_api/obj
+/Back_End/React_assignment_web_api/React_assignment_1_web_api.csproj.user
